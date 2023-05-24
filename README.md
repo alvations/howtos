@@ -1,5 +1,5 @@
 # howtos
-Many asks the why, I want to know the howtos
+Many ask the why, I want to know the howtos
 
 
 # Huggingface
