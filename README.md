@@ -22,3 +22,4 @@ Many ask the why, I want to know the howtos
  - [How to get the size of a Hugging Face pretrained model?](https://stackoverflow.com/q/68086929/610569)
  - [How to remove layers in Huggingface's EncoderDecoderModel models?](https://stackoverflow.com/q/74297955/610569)
  - [How to use Huggingface Trainer streaming Datasets without wrapping it with torchdata's IterableWrapper?](https://stackoverflow.com/q/74255617/610569)
+ - [How to get the logits of the model with a text classification pipeline from HuggingFace?](https://stackoverflow.com/a/76435401/610569)
